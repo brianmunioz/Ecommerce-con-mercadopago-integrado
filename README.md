@@ -1,4 +1,4 @@
-# Ecommerce-con-mercadopago-integrado
+# Ecommerce con mercadopago integrado
 Es un sencillo ecommerce integrado con mercadopago, realizado con PHP, css y html.
 
 
